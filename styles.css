@@ -1,5 +1,5 @@
-@font-face {font-family: "OCR A Std"; src: url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.eot"); src: url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.woff") format("woff"), url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.svg#OCR A Std") format("svg"); }
-
+/* @font-face {font-family: "OCR A Std"; src: url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.eot"); src: url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.woff") format("woff"), url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.svg#OCR A Std") format("svg"); }
+ */
 
 #titulo{
     font-size:100px;
@@ -7,7 +7,7 @@
     top:10%;
     left: 17%;
     /* font-family: 'Century Gothic', sans-serif;OCR A Std,  */
-    font-family: 'OCR A Std', monospace;
+    /* font-family: 'OCR A Std', monospace; */
 
     margin-left: auto;
     margin-right: auto;
@@ -26,7 +26,7 @@
     top:20%;
     left: 33%;
 
-    font-family: 'OCR A Std', monospace;
+    /* font-family: 'OCR A Std', monospace; */
 
     margin-left: auto;
     margin-right: auto;
@@ -72,7 +72,7 @@
 #controles{
     display: none;
 
-    font-family: 'OCR A Std', monospace;
+    /* font-family: 'OCR A Std', monospace; */
     font-size: 10px;
     color:aliceblue;
     height: 100px;
