@@ -1,0 +1,83 @@
+/* @font-face {font-family: "OCR A Std"; src: url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.eot"); src: url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.woff") format("woff"), url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/6a9c6944fe8451dd397fe9d0763a4c88.svg#OCR A Std") format("svg"); }
+ */
+
+#titulo{
+    font-size:100px;
+    position:absolute;
+    top:10%;
+    left: 17%;
+    /* font-family: 'Century Gothic', sans-serif;OCR A Std,  */
+    font-family: 'OCR A Std', monospace;
+
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 2000px;
+    color:aliceblue;
+    font-weight: 1200;
+    opacity: 1;
+
+}
+
+#pu{
+    display:none;
+    font-size:50px;
+    position:absolute;
+    top:20%;
+    left: 33%;
+
+    font-family: 'OCR A Std', monospace;
+
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 600px;
+    color:rgb(186, 3, 3);
+    font-weight: bold;
+    opacity: 1;
+
+}
+
+
+#puntuacion{
+    display: none;
+
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    top: 10%;
+    left:0%;
+
+}
+#score,#mult{
+    color:aliceblue;
+    float: left;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+/* #score{
+    margin-top: 10px;
+    margin-left: 5px;
+} */
+
+#puntuacion img{
+    margin: auto;
+    width: 20%;
+    float: left;
+}
+
+#controles{
+    display: none;
+
+    font-family: 'OCR A Std', monospace;
+    font-size: 10px;
+    color:aliceblue;
+    height: 100px;
+    width: 300px;
+    position: absolute;
+    top: 20%;
+    left:0%;
+}
